@@ -36,9 +36,11 @@ Using the audacity tool speech samples will be collected.
 Four words ‘yes’, ‘no, ‘left’, ‘right’  of different variations in the speech are recorded. 20 variations per word saved in the folder labelled with the respective words. These recorded words are fed into the speech recognition program to train and accuracy and confusion matrix are obtained.
 
 ![image](https://user-images.githubusercontent.com/73153277/125280851-2a73c700-e333-11eb-9465-77d8657f9c9b.png)
+                             
                              Folder containing all the audio samples 
                              
 ![image](https://user-images.githubusercontent.com/73153277/125280936-42e3e180-e333-11eb-88d4-0e75f23fd426.png)
+                             
                              Different variation Audio samples for the word ‘no’
           
           
@@ -48,12 +50,15 @@ Four words ‘yes’, ‘no, ‘left’, ‘right’  of different variations in
 Accuracy and confusion matrix calculated and is shown below for standard Kaggale testing dataset
 
 ![image](https://user-images.githubusercontent.com/73153277/125281035-61e27380-e333-11eb-9104-d340dd82a11d.png)
+                             
                              Results with Confusion Matrix for Kaggle dataset
                              
 Accuracy and confusion matrix calculated and is shown below for Kannada number testing dataset with noise.
 
 ![image](https://user-images.githubusercontent.com/73153277/125281161-83dbf600-e333-11eb-8c68-0e28fa4caa4d.png)
+                             
                              Results with Confusion Matrix for Kannada number recorded dataset
+                             
                              
 Speech recognised for the test input audio ‘happy’ is below. 
 
